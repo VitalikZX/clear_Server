@@ -1,0 +1,1 @@
+java -jar clear_Server.jar

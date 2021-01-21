@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clear_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/clear_Server_jar</output-path>
+    <root id="archive" name="clear_Server.jar">
+      <element id="module-output" name="clear_Server" />
+    </root>
+  </artifact>
+</component>
